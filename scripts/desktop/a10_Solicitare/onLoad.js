@@ -16,5 +16,5 @@ var onLoad = function(){
         jr_set_readonly('BugetAlocat', true);
         jr_set_disabled('Produse', true);
     }
-    
+///Commited from github integration
 };
